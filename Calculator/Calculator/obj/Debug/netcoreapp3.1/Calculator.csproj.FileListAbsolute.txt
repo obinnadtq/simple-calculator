@@ -1,0 +1,12 @@
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/obinnaisiwekpeni/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
